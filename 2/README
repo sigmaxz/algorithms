@@ -1,0 +1,40 @@
+Samuel Villarreal
+svill017
+cs141 fall2013
+																		Project 2
+SuedoCode:
+
+	functions:
+	~writeback(int,int,fstream) its a constant write to fstream  O(1)
+
+	~analysis(fstream,fstream) 
+		for loop(populates the 2d array) O(n) where n is number of items
+	
+		for loop(making size table) O(n) where n is the number of items 
+	
+		for loop(fine the max) O(n) where n is the number of items
+	
+		for(on size table looking for coordinates of max) O(n) 
+			for(make 2nd lvl size table over the found max) O(3n/4)
+				----the most maxes there can be on the table is for an alternating R F pattern
+							anymore F's would make a square thus lowering the count of maxes and completely
+							changing the max altogether
+				----
+				for(find the max on second max table) 0(n)
+				
+		main:
+			for loop(number of data sets) this would be O(s) where s is the sets
+			
+/////
+
+	Therefore worst case could be bound by O(n^3) and the main itself would run O(s). Combined 
+it would scale to the order of O(n^3 * s). There are special cases in which the algorithm gets a 
+faster. For example for the case where there is a possiblity of big = big2 it finishes on that first
+occurence. 
+	I choose to use 2D-arrays because i believe they are one of the simplest structures that are 
+inherently low level thus achiveing fast times. I was somewhat influenced by my 161 course on the 
+processors ability to cache memory for reuse. I had also done a case study on two ways of
+multiplying matrices through arrays. I believe that this is a functional and correct program i've 
+implemented. 2D-arrays in c++ are not very compatible with function calls so the bulk of my
+code had to be done in one function.
+	

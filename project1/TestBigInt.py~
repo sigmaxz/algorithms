@@ -1,0 +1,65 @@
+import BigInt
+
+class TestBigInt:
+
+    def __init__(self):
+	self.__testAdd__(0,23)
+        self.__testAdd__(2,3)
+        self.__testAdd__(2235563455,3)
+        self.__testAdd__(223443468,3453487903)
+        self.__testAdd__(-2,3)
+        self.__testAdd__(2,3123434566789)
+        self.__testAdd__(1232,3645)
+        self.__testAdd__(23434,67683)
+        self.__testAdd__(28,33)
+        self.__testAdd__(21234,68903)
+        self.__testAdd__(276889787231434,45676898045634567873)
+
+	print( "mul tests:")
+
+	self.__testmul__(0,12)
+
+        return None
+
+    def __testAdd__(self, a, b):
+	
+
+
+        x = BigInt.BigInt(a)
+
+        y = BigInt.BigInt(b)
+
+        z = x.__add__(y)
+
+        intSum = a + b
+	print a , '+' , b , '=' , a+b
+
+        if intSum != int(z.__str__()):
+
+            print ("test fail")
+
+        return None
+    def __testmul__(self, a, b):
+	
+
+
+        x = BigInt.BigInt(a)
+
+        y = BigInt.BigInt(b)
+
+        z = x.__mul__(y)
+
+        intSum = a * b
+	print a , '*' , b , '=' , a*b
+
+        if intSum != int(z.__str__()):
+
+            print ("test fail")
+
+        return None
+
+
+
+if __name__ == '__main__':
+
+    a = TestBigInt()

@@ -1,0 +1,35 @@
+function: command_line
+method declaration:
+void command_line(int argc, char ** argv, string & file1 , string & file2, string & file3, int & k_organisms,int & flag )
+
+	What the function command_line does is it handles taking in the arguments from the command line.
+This function was made to be very versatile such that it can take in both standard run time commands
+and can use variable assignment from the command line(giving those unassigned a deafult value). It 
+also acqures the number of organisms and the print format. This parser of sorts also is ready to
+handle interpreting which score file to use. The variables are as d = reference q = query s = score
+n = top number of organisms a = flag for print. 
+
+function: intS
+method declaration: void initS( double (& sarr)[18] ,ifstream &in)
+	This function takes in the ifstream in by reference and an array of size 18 with unknown entries.
+The file it takes in must be in the Format as follows those with two letters only:
+				A		C		T		G		
+		A		AA	AC	AT	AG
+			
+		C		CA	CC	CT	CT
+		
+		T		TA	TC	TT	TG
+		
+		G		GA	GC	GT	GG
+			P1(first penality)	P2(consecutive penalties)
+			
+/end
+	It places these value from left to right, top to bottome into the array of doubles sarr. Which
+will later be referenced to get the scores.
+
+function: newscore
+method declaration: double newscore(char a, char b,double (&sarr)[18])
+	This function takes in the two characters to calculate the score defined in the sarr an array of
+size 18. Uses switch statements on the two characters to determine which score to return. 
+				
+

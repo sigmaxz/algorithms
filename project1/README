@@ -1,0 +1,12 @@
+Samuel Villarreal
+sid:861021551
+svill017
+
+Implementations:
+	I used an array because I thought it would be beneficial when in large numbers an array isn't limited by the size of the string for the number of digits.
+
+Problems:
+	*I would get an L at the end of the mul int. I looked it up and it said that it stands for Long so it wasn't really an error. 
+
+	*for the m in the final return of mul i subbed 2strsub to fix a werid bug where it would increase it by full size max 
+

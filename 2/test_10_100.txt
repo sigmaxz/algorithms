@@ -1,0 +1,541 @@
+10
+43 61
+R R F F F R F R R F F F F R F R F F F F R F F F F R R F R F F R F F F F F F F F R F F F F R R R F F F F R F R F F F F F R 
+R F F F R R F F R R F F F F R F F F R R R F R F R R R F F F F F R R F F F R R F R R R R F R F R F R R R F R F F R R R F F 
+F F R R R F F R F R R F R R R R R R R R R R F F F F F F F F F F R F F R R R R F R R F R F F R F R R F R R R F R F F F F R 
+R R R F F R F F R F F R R F F F F R F R F R R R F R F R R R R R R R R F R F R R R F F R R R R R F F R R F R R F F R F F R 
+R F F R F R F F F F F R R R F F R F R F F R F F F R R F F F F F F R R R F F F R R F R F F F R F R R R F R F F F F F R F F 
+R R R R R R F F R F R F R F R F F F R F F F F F R F R R F F F F R F R R F F R F F R R F F R R R F R F F R R R R F R R F R 
+F R R R R R R R R F F R R R F R R F R F R F F F F F R F R F F F R F R R R R R R F F F F F R R R R R F R F R F R F R F F F 
+F F F R F R R F R F R R R R F R R F R R R F F R R F R R R F R F R F R F F R R R F F R F F F R F F R F F F R R R F R R F F 
+R F R R F F F F R F F F F R R F R F R F R F R R F R F F F R F F F F F R R F R R R F F R F F F R R F F R R F R R R F F F R 
+R R F F R R R F R R F F R F R F R R R F F R R F F R F R F R R R R R F R R F F R R F F R R F F F R F R F R R R F R F F R F 
+R R R R F R R F R R F F F F F R R R R R F R R F R F R R R R F R R F R F R R R R R F F F R R R F F R F R R F F F R F F R F 
+R F F R F F R R F R R F F R F F R R R R F R F R R R R F F F F F R R F F F F F F F R R R R F R R R R R F F F R F F R R R F 
+F R F R F F F F R R R R R F R R F R R F F F R R F F R R R R F F R F F R R F F R F F F R R F R F R R F F F F F F F F F F R 
+R R R F R R F F F R R F F R F R R F R R R F R F F F R R R F R R R F R R F F F F F F R R R F F R R F F R F F R R R R R R R 
+F R R R R R F R F R F R R R R R F F R R R F F F F F F F R F F F F F F R F R R R F F F F F F F R R R F R F R F R R R F R F 
+F F F R R F R R F R F R F F R F R R F R F R F R F F R R F R F R F R R F F R F R F F F R R F F R F F F F F R F R R F R F F 
+R F R R F F R R R R F F F F F R F R R R F F F F R F F F R R R R F R R F F R F F F R F R F R F R R F R F R F F R F R F F F 
+F F R F F F R R R F F R R F R F R R F F F F F R R F F R R R F F F R R F F R F R R R R R F R F R F F F R R F R R R R R F R 
+R R R R F F F F R F F R R R F R F F F R F F R R R R R R F F R F R R F F F R R F R R F R R F R F R R R F F R F F F R F R F 
+R F F R R R R R F F R F F R F R F R R F R R R F F R R F F R F F F R R F F R F R F R F R R R R F R F R F F F R R F R R R R 
+F R F F R R R R F R F F F R R F R F R F R F R F F F R F F R F R R R F R R R R F R R F R R F F R R F R R R R F F F F R R R 
+F R R F R F F R F F R F R R F F R R F F R R R R F F R F R R F F F F F F R R F R F F F F R F R R F R F F R F F F F F R F R 
+F R F F F R F R F F F R F F R R F R F F R R F F F F R F F F F F R R R F R F F F F F F R R R R F R F F R F R R R F R F F R 
+R R R R R F R F F F R R F R R F R F F F R R R F R F R R R F R F F R F F R R F F F F F R R F F R R F R F F R R F F R F R R 
+R F F R R F R R R F R F R R F F R R R F R F R R F F R F R R F R F F F F R F R R F R F F R F F R F F F F R F F F R F R F F 
+R F R F R R F R R F F R R R R F F F R R R F R R F F R R R F R R F R F F R R F R F R R F F F F R R F F R F F R R F F R F R 
+R F F F R F F R R R F F R R R F F R F F F R R F R R R F R F R F R F R R R F R F F F R R F R F F R F R R F R F F R F F R R 
+F F R R F R F F R R R F R R R R R F R F F R R F F F F R R R R F F R R F R F R R F R F F F R F F F F R F R R R F F R R R R 
+R F F F F R F R R R F F F R R F F F F F F R F F R R R R R R R F R R R F R F R F F F R F R R R F F F R R F F F R R F R R R 
+F F R F F F F F F R R F R F F R R R F F F F F R R F R R F F R R R R F R F F F F F F R R F F R F F R R R F F F R R F R R R 
+R R F R R F F F R R R F R R R F F F F F R F R F R R R R R R R R R F R R R R F R R R R F R R R F R F R R F F F F F F F R F 
+R R R F F R R F R R F R R R R F F R F R R F F F R F F R R F F R F F R R R R F R R F R F F R R R R F F F R R R R F F R R R 
+R R R F R R F R R F F F F R R R R F R F R F F R R F R F R R R R R R F F R F F R R R F R R R R R F R F F R R F R R F F R F 
+F R R F F F R R R R F F R F F R F R F F F R F R F F R F F R R R R R R F F R R R R F F R R R R F R F R R F R R F F R R R R 
+R F R F F F R F F R F R F R R R R F R R R R F R R R F R R R R F F R R R R R F F F R R R R R R F R F F R F R R R F F R F F 
+F R R F R R F F F F R R F R R F F F F R R F F F F F R F R F R F R F R R F R F F F F F R R F F F F F F F R R R R R R F R R 
+F F R R F R R F R F R F R R F F R R R F F R F R R F R F R R F R F F R R F R R F F R F F F R F F F F R R F F R R F R F F R 
+R F F F R R R R R R R R F F F F R R R R R F F R F F F R R R R R R R F R R R R R R R R F R R R R R F R F R R F F F R F R R 
+R R R R R R R R F R R F R F F R F R F R R R R R F R R F F R F F R R F R R F R F F R F R F R R F R F F F F R F R R F F F F 
+F F R F R R F R F F F F R F F R R R F F F R F F F F F F F F R R R R F R F R R R F R F F F R R F R F F R F R F R F F F R R 
+R R R R F R F R F F F F F F R F F R R R F R F F F F R R F F R F F R F F F F F R R R F F F F F R F F R R F F F R F R F R F 
+F F R R R F F F R F R F R F R F R F F F F F R F F F R F R R R F F R F F R R F R F F F F R R F F F R R R F F F R R F F R F 
+F F R R F R R F F R F R R R R R F F F F R F F F F F F R F F R R R R R F R R F F F R F F R R F R F R F F F R R R R F F F R 
+
+70 56
+F F R R R R F F F F F R R F F R R F F R F R R F R R R F R F R F F R R F F F R R F F F F R R F F R R F F R F R R 
+F F F R R R F F R F R F F F R R R F F F F R R F R F R F R F F R R F R R F F R F F R F R F F R R R F F F F F F F 
+R F R R R R R R F R F R R F F F F R F F F F F F R R F F F R R F F F F R F R R R R F R R R F F R R R F F F R F F 
+R R R F R F R F R F F F F R F R F F R R R R R R R F R R F F F F F R R F F R R F F R R F R F F F R F F R F F F R 
+R F R F R F R F F R R R R R F R R F F R R R R R F F F F F R F F F F F F R F R R R R R R R R R F F F F R F F R F 
+F F R R F F F R R R F R R F R R F F R R F F F R R R R R R F F F R F F R R R R R F R R F F F F F R F F F R R F F 
+R R F R F R F F F R F F F R F R R F F F R R R R F F F R F F F R F R R R R R F F R F R F F F F F R R R F R F F R 
+R F R R R F R F F R F F R R R F F R R R F R F F R R R F F R F F F F F F R F R F R F R R F R F F R R F F R F R R 
+F F F R F R F R F F F F R F R R R R F F R R R R R R F R F R F R F R R R F F R R R F R F R R F R F R F F F R R F 
+R F R F F F F R F F R R R R F F F F R F F F F R R F R F F R R F F R R F F F F F R R F R R R F R F F F F F F F F 
+R F R F F R R F F R R R F F F F F F F R F F R F R F R F R F R R F R F R F F F R F F R R F R F R F F R R R R F R 
+R F R R F R F R F R R R R R R F F R R R R F F F R F R R R F F R F F R R F F R R R R R R R R F R F F R F F F F F 
+F F R F R F F F R F F F F F R F R R F R F R R R R F F F R R R F F R R R F F F F F F F R R F F R F R F R R F R R 
+R R F F R R R R R F R R R F F F R R F F F R F F R R F F R R F R R F F R F R R F F R F F R F F R F R F F F F R F 
+F F R F F R R F F F R R F R F R F F R F R F F F F F R R R R R F R R F F R F F F R F F R F F R R R R F R F F F F 
+R R F R R F F R R R R R F F R R R F R F R R R R F F R R R R F R R F R R R R F R R F F R R F R R R R F F R F F F 
+F R R F R F R R R R R F R F F F R R F R F F R R F R F F F R F R R F R R R R R F R F R F R F R F R F F F R R F F 
+R R R F F F R F R R R F R R R R F R F R F F F F R R F R R R F R F R R R F R F R R F F R R F R F F R F R F R R R 
+F F R F F R R R R R R F R R F R F R R F F R F R R R F R F F R R R R F F R F R R F R R F R F F R R F F F R R R R 
+F F R R R R R R F F F F F F R R R R R R F F R F F R F F R F F F R R F R R F R F F F F R F F R F F R F R R R R F 
+R F R R R F R R F F R R F R F R F R R R F R F R F F F F F F R F R R F R F F R F F R F R R R R F F R R R R F F F 
+R R R F F R R F R R F R F F F R F R R F R R R F R R R F R F R R F F R R F R F R R R R R F F R R F F F F F F F R 
+R F F R R F R F R R F R F R R F R R F F F R F R F R F R F R R F F F F F F R R F R F F F F F F F F R R R R F R F 
+F R R F R R R R R R F F R R R R F R R F F F R F F F F R R R F R R F F R R F R R F R F F R F R F F R R F F F R R 
+R F R R F R R F F F R F F R F R R R R R R R R F R R R F F R F F R R R F R R F F R F F F F R F R F F R F F R R F 
+F F R R F R R F R R F R R R F R F R F R F F R R R F F R F F F R R R F R R F F R F R R F R F R F R F R F R R F F 
+F R F F F R F R R R R R F F R R R R R R R R R R F R F R R R F R R R F F R R F F F F F R F R F F R F F R F F R R 
+F F R R F F R F F F F R F R F R R R F F R R R F F F F R F R R R F F R F R R R R F F R F R F F R F R F R R F F F 
+R R F F R R R R F R F F F F F R F F F F R F F R F R R R F F F F F F F R F F R R F F F R R F F F R R R F F F F F 
+F F F R R R R F F F F R R F R F R R R F F F R F F F R F R F R R R F R R F R R F F F F F F R F F R F R F R F R F 
+R F R R R R R F F F F F F F R F F F R R F F F F R R R R F F R F R R F R F R F R F F F R R F F F F R F R F F R R 
+F R R R F R F F F R R R R F R F R R R F F F R R F R F F F F F R F F R F R F R F F R F R R F F R F F F F F R F R 
+R R F F F R F F R F R R R R F F F R F F F F F F R F R F F F R F R F R F R F R R R R R R F F F R F F F R R R F R 
+F F R R F R F F F F R F R F F R F F R R R R R F F F R F R F F F F F R R F F F F F F R F R R R R F R R R R F F F 
+R F R R F R R R F R R F F F R R R R R F R R F R R F R F R F R F F F F R F F R R F R F F F F F F R F R R F F R R 
+F R F F R F R F R R F F F F R F F F R R F F F F F R F R F R R R R F R R F R F F R R F R F F F R R F R F R R R F 
+R R R F R R R R R R F F R R R F F F F R R R F F F F R F F F F F F F F F F F F F F R R F F F R R R F R F F F R R 
+F R R R F F R R R F F F R F F F F F R R R F R F R F R R R R R F R R R R F R R F F R F F F R R R F R F R F F F R 
+R F R F F R R F F R F R R R R F R F R F F R F R F R R R R F R R R R F F F R F R R R R F R R R R F F F R F F F R 
+F F F F F F R F R F F F F R F R R F F F R F F F R F R R R F R F R F F F F F F F R R R R R F R R R F F R R F R F 
+R R F R F F F F F R F R F R F R R F R R R R R R F R F F F F R F F F F R F R F R F R R R R F R R R R R R R F R F 
+F F F R R F F F F R F R R F R F F R R R F R R F F F F F R F F F F R F F F R F R R R R R F R R F R R F F R F R F 
+R F F R F R F R R R F F R R R R F R F R F F F F F R F F R F F R F R F R R R R R F F F F R F R F R F F F R F R F 
+F F R F F F R R F F R F F R F R F F R F R R R R F R F F F R R R F R R R R R R F F R F R R R F R F F F R F R R R 
+R R F F R F F F F F R F F R F R F R F F R R F R F F R R F R R F R F R R R F R F F R F R R R F F R R F R R R R F 
+F R F R F F F F R F R R F R F R R R R R R F R R F F F F F F R F R F F F R F R R R R R F R R F R R R F F F F F F 
+R R R F R F R R R R F F F F F F R R F R R R F R R R F R F F F F F F R F R F F F F R R R R F F R F R R F F F R F 
+F F F R R R F R R R F R F F F R F F R F F F F R R R R F F R R F F R F R R F R R F F F R R R R R R R F F F F F F 
+F F R R F F F F F F F F R F R F R F F F F F F F F R R R F R R R F R F F F R R R F F R F R R R R F F F R R R R F 
+F R R R R R F R R R F R R F R R R R F R R R R F F R R R R R F F R F R F F F F R F R R F F R F F F F F F F F F R 
+F F R R F R F F F F R F R F F F F F F R F R F R F R R R R F F F R F F F F F R F R F R F R F R R R F R F R R R F 
+R R R R F F R F R F R R R R F F F F R R R R R R R R F R R F F F F F F R R F F F F F F F R R R F F R F F F F F F 
+R R F R R R F F R F R R R F F F F R F F R F R F R R R F F F R F R F R R F F F F R F R F F F R R R F F R F F R F 
+F R R F R R R R F R R R R F R R F R F R F R R F F F R R R R F R R F F R F F R R R R F R R F R F F R F R R F R F 
+R R R R R F R R F F F R F F F F R R F R F F F R F R R F F R F F R F F R R R F F F R R R F F F F F R F R R R R F 
+R R F F F R R F F R R F R F F F F F R R R F R F R F F R R F F R F R R R R R R F R R F R F R R R F R R F F R R F 
+R F F R R F R F F R R R F R F F R R R F R R F F R F R F R R F R F R R F F R F F F F F R F R F F F F R F F F F F 
+R F F R R R R F R R F R F R F R F R R R R F F F F F F R R R R R F F F F F F F F R R F F R R F F R F F F R R R F 
+F F R F F R F F F R R R R F F R F F F F F R R R F F F F F F F R F F F R F F F R F R R F F F F F R R R R R F R F 
+R F F R R R R F F R R R F F R R F R R F F F R R R R R R F R R R F F R F F R F R R F R F R R R R R R F F F F F F 
+F F R F F R F R F F R R F F R R R R F R R F R R F F F F R F R R R R F R R R R F F R F R F F R F F R R F F R F F 
+R F R R R R R R F F R F F F F R F R F F R F R F F R F F F R R F F R F F R R R F F R F F F R F F R R R R R R R F 
+F F R R F R F F R R R F R R R R F F F R F R F R F F R F R R R F F F F F F R R R R R F F F F F R F R R R R R R F 
+F F R F F F R F R F R F F R F R R R F F R R F F R R F R R R R F F R F R F F F F F F F R F R R R F F F F F F R F 
+F F R F F R R R R F F R F R F R R R R F F F F R R F F R R F F F R F R R F R R R R F R F R F F R R F F F R F F F 
+R R F R F R F F R F F F F R F F F F R F F F F F F F R F R F R R F F R R R F F R R F F F F F F R R F R F F F R R 
+R R F R F R R R F R R F F R F F F F F R R R R R F R R R R R R R F R F R R F F F R F F F F R F R F R R F R F R F 
+F R R F R R R F R F R R R F R R R F R R F F R F F F R F R R R F R R F F F F R F R R R R F R F R F F R R R R F F 
+F R R F R R F F F R R R F R F F F F F R F R R R F R F F F R R R R R R F F F R R F R R R R F F F F R R R F R F R 
+F R R R R R R F F R R R F R R R R R R R F F R R R R F F R R F F R F F R R R F F R F F R F F R F F F R R R R F R 
+
+19 15
+F R R F R R R F R R F R F R F 
+R R F F R R R F R F R R R R R 
+R R F R F F R F R R R R R F R 
+R R R F F R F R R R F R R F R 
+F F R R F F F F F F F F F R R 
+F R R F F R R R R R R F R F R 
+R R F F R R R F F F R R R R R 
+F F R F F F F F R F F R R F F 
+R F F F R F F F R R R F F F F 
+F R R R F F F F R F R F R F R 
+F F R F F R R R F F F R R R F 
+F F F F F R F F F F R R F R F 
+F R R F F F R F R F R F F R F 
+R F R F F R R R F F F F F R R 
+R R R F F F R F R R F F F R F 
+R F F F R R F R R R R F F F R 
+F R R F F F R F F F R R R F R 
+F R F R F R R R R R R R R F R 
+R F R R R F F F R R R R R R R 
+
+62 6
+R R R F R R 
+F F F F F F 
+R F F F F F 
+R R R F F F 
+F F F F F R 
+R F F R R F 
+F F R R R R 
+F F F R R F 
+F R F F F R 
+R R R R F F 
+R R F F R F 
+F F F F F F 
+F R R F R F 
+R F F F F F 
+R F F R F F 
+F R F R F F 
+R R F F R R 
+R F F F R F 
+R R F F R R 
+R R F R R F 
+F F F R R R 
+F R F R F F 
+F F R R R F 
+F R F R R F 
+R R F R R F 
+F F F R F F 
+R F F F F R 
+R R F F R R 
+R R R F R R 
+F F F R F F 
+R R F F R R 
+R R F F R F 
+F R F R F R 
+R F R F F R 
+F R F R R R 
+R R R F F R 
+F F F F R F 
+R F F F R F 
+F R R F F F 
+R F F F F R 
+R F R R R R 
+F R F R F R 
+F F F R R F 
+F R R R F F 
+F F R F F R 
+F F F F F R 
+F R R F R F 
+F F R R R R 
+R F R R F R 
+F F F R R R 
+R F F F R F 
+F R F F F R 
+R R F R R F 
+F R F F R R 
+F R F F R F 
+F R R F F F 
+R F F F R R 
+F F R F F R 
+R R F F R F 
+R F F F R F 
+F R F F F F 
+R F R F R R 
+
+18 85
+F F F F R F F F F F R F F R R F F F F F F R R F F R F R R R R R R F F R R R F F R F R F F F R F R R R F R R F R R R R R R R R R F F R F R F F R F F F R R F F F F F R R F 
+F R F F R R R R R R F R F R R R F R F F F R F R F R R F F R R R R R R R R R R R R F R F F R R F R F R F F F R F R R R F R R F R R F R R F R F R F F F R R F F R F F R R F 
+R F F R F R R R F R R F R F R R R R F F R F F F F R R R R F F R R R R R R R R R R R F R F F R F R F F R R R F F R R R R F F R F R R F R R F R R R F R F F R F F F R F R R 
+R F F R F F F F R F F R R F F R R F R F R F R R R F R R R R F F F R F F F F R F R F R R R F R R R R R R R R F R R F F R F R F R R F F F R F F R R F R F R F F R F F F F R 
+R R R F F R R F R R F F R R F F F F R R F F R R R F R R R F R R F R F R R F F R F R F F F R F R F F F F R F F R R F R R F R R R R F F F R R F R F F F R F R R F F F R F F 
+F R F F R R R F R R F R F R R R R R F F R F R R F F R F F F R F F F R R F R F R R R R R F R R F F F R F R R F F R F R F F R R R R R R F R F F F R F F F R F R F R R R R R 
+F F R F R R R R R R R F F R F R F R R F F F F R F R R F R R R F R R R R R R R F F F R R F F R R R F F F R R R R R R F R F F R F R R F R F F F R R F R F F R R F F F R R R 
+R R R F F F R F F F F F R F R F F R R R R F F F F R R F F R F F R F R R R R F F F R F F F F F R R F F R R R F R F R F R R R F F F R F R R R F R R R F F R R R R F F R R F 
+R R R R F R R F R F R R R R R R R R R R R R R R R R R F F R R F R F F F F F R F F R F F F R R F R R F R R R F R R F F F F R R F F F R R F R R R R F F F F F R R R R R R R 
+F F R R R R F R R R F R R R F R R F F F R R F R F F R F F R F F F F F R F F R R F R R R R F R R R F F R R R R F F R R F F F R R R F R R R F R R F R R F F R F F R R F R F 
+R F R R F F F R F R R F R R F F R F R R F F F R R R R F R R R R F R R R R R R F R R R R F R R F F R R F R F F R R F F R F F R R R R R R R R F R R R F F R F F F F F R F R 
+F R R R F R F F R F F F F F F F R R R R F F R R R R F F R F R R F R R R F R F F F R R F F R R R R R R F R F F R F R R F F R F R R R F F R R F F F F R R F F R F F F R F R 
+F R F R R R F R R R R R F R R F F F R R R F R F F F R R R R R F R F F R R F R R F R R R R R F F F R R F F R R R F F F F F F F F F R F F F F F R F F R R F R F R R F R F F 
+R F F F R R R R F F F R R R F F F R F R R F F R R F R R F F F R F R F F F R F R F R R R R R F F R R F R F R F R R F R F F F F R R F F F F F F R F R R R R R F R R F R R F 
+F R F F R F R F R R F F F R R R R F R R F R R F F R R R R R R R R F F R R F F F F F R R F F F F R F F F F F F R F F F R F F R F R F F F R R R F F R F F F R R F F R F R F 
+R F F F R F R F F F F R R R R R R F R F R F R F F R R F F F F F R R R R F R F R F R R F F R F F F F R F R F R R F F F R R R F R R F R F F F F R F F F R F R R R R R R R F 
+R R R F R R F R F F F R F R F R R F R F R R F F R F F F F F R R R F F R F F R F R F F R R F R R R R F F F R R F R F R F R F F R R F R F R F R R R R R R F F R F F R R R R 
+R R R F R R R F F R F R F F R R F F R F F F R R F R R F R R R F R R R F R R R R F R R R F F R R R R R F F R R F R R R F R R R F F R R F F R F R R R R F F R R F R R R R R 
+
+75 76
+F R F R F R R R F R R R F R R F F R F R F F R R R R R R F F F R F R R R R R R F R R R R F R F R R F R F R F F R F F R R R F R R R R R R R F R F F R F R 
+R R R R F F F R R R R F F F R R R R R R F R F F F F R F F F F F R R F F F R F F R R R F F R F F F F R R R F F F R R R F F R R F R F F F F R R F R R R F 
+F R F R F F R F R F F R F F F F F F R F R F R F R R R R F R R R R F R R R R F R F R R F R F R F R R F R R F F R R F R F F R F R F F R F F F F R R F F R 
+R F F R R R R R R F R R R R F R F R R R F R R R F F R F F R F F F F R F F R F F R F F R R R R F R R F F R F F R F R F R R F F F R F F F R R F R R R R R 
+F F F F F R F R R R R F R F F R R R R R R F R R F F R F F R F R F R R F F F F F F F R R R F R F F R F F F F F F R F R R R R R F R R R F F F R F R R F F 
+F F R F R F R F F R R F F F F F F R F F R F F R F F F F R R R F F R R F R F F F F F R R R R R F R F F R R R R F F F F F F F F F R F R R R F F F F F R F 
+F R F F F R R F R R F F R R F F F R R F F F F R R R F F R F F F F R F R R F R R F F F F F R F R R F R R R F R F R F R R F F F R F R F F F F F F R F R F 
+F F F R F F R F F R R F F F F R R R F R F R F R F F F F R R R F F F F R F F R R F R F F F R F R R R R F R F R F R F R R F R R F R F F F F F F R R R F F 
+R F F R F F R R F R F F F R R F R R R R F F F R F R F F R R R R F R F F F F F R F R R R R R F F R F F F F F R R F F F R F F R F F F R F R F F F F F R R 
+F F F F F R F R F F R F R F F F R F R R F R F F F R F F R F F F R R F F R R F R F F F F R R R F F F F R F R R F R F R R R F R R F F R F F F F R F R F F 
+R F R R R F R R F R F R F F R F R R R F F R R R F R R R R F R F F R F F R F F F R R F F F R F F R F R R F F R R F F F F R F R F F F F F F R F F F R R R 
+R F R F R R F F F F R R R F R F R R R F R F F F R R R F R R F F R F R R R F R F R R R F F R R F R R R R R F F R F F F R R R F R R F R R R R F R R F F F 
+F F R R R F R R R R R R F F R F F F F F R R F R R F R F R R R R F F R F R R F R R F R R R R F R F F F F F F F F R R R R R F R F R R F R F R R F R F F R 
+F F R F R R R F F R R F R F F R R R F R R R R F F R F F F R F F F R R F R R R F R F R R R F R R F R R R R R F F R R R R F R F R R F R R F R F R F F R F 
+R F F R F F R F F F F R R F R F F F F F R F F F R R F F F R F R F R R R R R F F F R F F R F R F R R F R F R R F F F F R F R R R R R R R R R R R R F F R 
+F R R F R F R F F R F R F R F F R F F R R R F R R F R R R R F F R F F R R F F F F R R R R F F R R F F R F R F F F F F F F R F F F R F F F F F R F F R R 
+R R R R F F F R F R F R F R R F F F R R F R R R F F R R R R R R R F R F R F F R F R R F F R R R F R R R R R R F F R R F F R F F F R F R F R R F F R R R 
+F R R R R R F F F F R R R R R F F F R R F F R F R R R F F R F R R F R R F F F R F R F F R F R F R R R R R R F R F F F R F R R F F R F R R F F F F R R F 
+F R F F R F F R F R R R F F R R F R F R F F F F R R R F R R R F R F R R R R F R R F R R F F R R F R F R F R F F R F R R F R F F R F R R F F R R R F R F 
+R R R F R F R F F F R F F R F R F R R F F R F F F R F F F F F F F F R R R R F F R R R F R F F F F F R R F R F R R R R F F F R F R R F R F R F F R F R F 
+R F R F F F F R F F F F F F R F R R R R R F R F F F R R R R F R R F F F R R F F F R R F F R R F R R F F F F R R R F R R F F R F F F R F R R F F R F R R 
+R R F R R F F F R R R F F R F R R R R F F R R F R F F F F F F F R R F R F F R R F R F R R R R R R R F R F R F F F R R R R F F R R F R F R R F F R R F F 
+F F F F R F F F F F R R F F F F R R F R F R R F R F R F R F R F F F R F R R R F F R R R F F R R F F R F F R R R R F F R R F F F R F R F F R R R F R F R 
+F F R F R F R R F R R F F F F R R R F R R R F F R R R F R F R R R R F R F F R F F R R F F R F F R R R R R F R F F R R R F R R F F F F R R R F F R R R R 
+R F F R R F F R F F F R F R R R R R F F F R R F R F F F F F F F F R R F R F F F R F F F F R F F R R F R R F F F R R R R R F F F F F R F R F R R R R F F 
+R R F R R R R F F R R F R R F R F F F R R F R F F R F F R F F R F R F R R F F F F F R R F R R R F R R F F R R R F R R F F F R R F F R F R F R R R R R F 
+R R F F R R F R R F R F F R F R F F F R R F F R F F R F R R F R F R R F R F F F R R R R R F R R R F R R F R F R F F F F R R R F F R R F F R R F R F F R 
+R R R F F F F R F R R R R R R R R R F F R F F F F F R F R R R F R R R F F F R R R R F R R F R F F F R F R F R R F R F F R F R R R R R F R R R R R F R F 
+R R R F F R R F R R F F R F R F R F F R F F R F F R F R F F F F F F R R F R R F R F R R R F F F R F F F R F F R F R R R R F F F R F R F F R F F F F R R 
+R F F R R R R F R F F F F F R F R F F R F F F R F R R R R R R R F F F R R F F R R R F F F F F F F R F R F R R R F R R F R F F R R R R R F F R F F R F R 
+F R F R R R R F R F F F F F R R R R R F R R F R F R F R R R R F R F R R F R F F F R F F R F F R F F F R F F R R F F R F R R R R F R F R F R F R F R F F 
+R R F F F F F R R F R F F R R F R R F F F R F R F F R R F R F F R R F R F R R F R F R F F R R R F F F R R F R F R R F F R R F F R R F R R F F R R R F R 
+R F R F F F F F R F R R R F R R F F F F F R F F R F R R F F R F F R F R R R F R R F F R R F R F R R R F R R R R F R F R R F F F R R F R F R R F F F F F 
+R F R R F R F R R R R F R F F R F F F F F R F R R F F F F R R F R R R F F F F F F R F R F R R R F R F F R R F F R F R F F F R F F R F R R R R F R F F R 
+F R R F R R R R R F F R R R F R F R F R R R F R F F R F R F F F F R R F R R R R R F F R F R R R R R F F R R F F F F F F F R R R R F R R F R F F F R R F 
+R R F F R R R F R F R F F F R R R F R R R R F F R R F R R F F R F R F R F F F F F F F R F F R F R R F R F R R F R F F R R R F F F R F R R R F F R R F F 
+R F R R F F F R R F R R R F F R R R F F R F F R F R F F F R R F F R F F R R F R F F R F F F F F F F R R R F R F F R F R R F F R R F F R F R R F R R R F 
+R R R F F R F F F R R R R F F R F R R F F F F F R F R R F R F F R F F F F R R R R F R R R F F F R F R F F F R F R R F R F R F F F R F R F F R F R R R F 
+R F R R R F F F R R R F R F F F F R F R F R R R F R F R F F F F R F F F R R R F R F R F R F R R F F R R F F R F F R F R F R F R F R F R F F F F R F R F 
+R F F F R F R R R R F R R R R R R R R F R F F F R R F F F F R F R F F F R F F F F R F R R F R R F R F R F F F F F R R F R R R R F F F R R R F R R R R R 
+F R R F R R F F F R R R F F F F F R F F F F F R F R R R R R R F R F R R F F F R R F R F R R R R R F F F R R F R R F R R F R F F F R F R F R R F R F R R 
+F R R F R F R R F R R F F R F F F F R R F R F R R F R R R R F F F F R F F F F R F R R R R F F F R R R F R F R R R R F F R R R F F F R R R R F F R F F R 
+R F R F F R R F F R F F R R R F R F R R R F R R F F F F R R F F F F R R F R F R F F R F F R R R F F R F R R F F R R R R F F F R F F F R R R F F F F R F 
+F F F F R F R R F R F F R F R F R F R F F F R F F F R F R R R F F F R F R F F F F R F F F F F R R F F F R F R F R R R R F R R R F R R F F F F R R R R F 
+F F F F R F F R R F F F R R F F R F F R R F F F F R R F R R R F F R F F F R F F F R R F R R R F F R F F F R F R F F F F F R F R R R F F R R R F R F F F 
+F F R R F F R F F F F R R F R F F F F F F R R F R R R R F F F R F F F R R F F R R F R R R R F F F R R R R R F R R R R R F R R R F F F R R R R R F R R F 
+F F R R F R F F R R F F R R F R R F R F F F F F R F R F R R F F R F F F R R F R F R F F R R F R R R R F F F R F F R F F F R R F F F R F R F R F R F R R 
+R R F R R F F F R F F F R R R F R R R F R R F R R F F R R F R R F F R F R F F F F R R F R F R R F R F F R R F R F R R R R F R F R F F F R R R F R R R R 
+F R R F R F R F R R F F R R F R F R R F F F R F F R F F F F F R R F F R R R F R R F R R F F F R F F F R R R R F R F R F R F R R R F F R F R F F F F R R 
+R F R R R R R R R R F R F F R R R R R R F F R F R F R F R R R F F R F F R F F R R R F F F F F F F R F R F R F F F R F R R F F R F R F R F F R F F F F F 
+R R R F R R R R R F F F F R F R F R R F R F F R R F F R F R F F F F F F F F F F R F F R F R R F F R R F F F F R R F R F F F F R R R R R F F F F R R F R 
+F F F R F F F F R F F R R F R F R F R R F R R R F R F R R F R F R F F R R F F R R R R R F R F F F F F R F R R F R R F R F F R F R F F R R R R R R R R F 
+F R R R F R F F R F R R F F R R R R R R R F R R R R F R R F R F F R R F R F R R R R R R F F R F F R F F R F R R F F R F R R F R F F F F R F R R F R R R 
+F F F F F R R F F R F R F R F R R R R F F F F F R F R F F R F F F R R F R R R F F R F R R R R R F R R R F F R F R R R F R F R R F R F F F F R R F F R F 
+R F R F F R F F F F R F F F R R R F R R F F F R R R R R F F F F R F R F F R R R F F F F R R F R F F R R R R F R R F R F R R F R F F R F F R F F F F R F 
+F F R R R R R R R F R R F F R F F F R R R R F R R F F R R F F F R F F R R F R R F R F R F F F R R F F R F R R R F F R F R F R R F F R F F R F R F R R R 
+F F F F F R R R R R R R R R F R R R F F F F R R R F R F R R F F R R F F R F F F F R F F R R R R R F F R R F R R F F F F F F R F F F R R R R F R R R F R 
+R F F F R R F F R F F F R F R R R R F F R R F R R R R R R R R F F F R R R F F R R R F F F F F F F R F F R R R R F R R F R F R R R R R R F F R R F F F F 
+R R R R R F F F R F F F R R R R F F R F F R R F F R F F R R R R R R R R R R F R F F F F F F R R R R F R F F F R R R F R R F R R R F R R F R R R F F R R 
+R R R F R F F F F R R F R F F R F F R F R R F F R F R F R R F R R F F R F R R R R R F R F R R R F R F R F R F F F F F F F R R F R F R F R R F R R R F F 
+R F R F R F F F R F R F R F F R R F F R R F F R F R F F R R F R F F F F R F R R R F R R R F R R R R R R F F F F F R R F R F F F R F F F R F F R R F R F 
+R F F R F R F R F R F F R R R R F R F R F R F F R R F R R F F R R F F F F R R R R F F R F R R F R F F F R R R R R F R R R R F F F R R R R R R R R R R F 
+R R R R F F F F F F F R R R R R R F F F F R F F R F F R F F R F F R F F R R R F F R F F R R R R F F F F F R R R F R R F F R R F F R R F R R R R R R F R 
+R F R F F F R R F F R F F F R R F R F R R F F F R R F R R R F R R F F F F R F R F R F R F F R R R R F R F R F F R R R R F F R F R R R F R F R F F F F R 
+F F F F F R F F R F R F F R F R F R F R R F F R F F F R F R F R F R F F R R R R F R F F F F F R F F R F R R F F F R R R R F R F F F R F R R F F F F R R 
+R R R F F F R F F F F R F F F F R F R F F F R F F F R R R F R R F F F R R F F F R R F F F R R F R F R F R R R F R R R R F R F R F R R F R R R R R R R R 
+R R F R F R F F R F F R R F F F F R R F R R R R R F F F F F F F F R R F R F R F F F F F R R R R R R F F F F F F R R R F F F F F R F R R R R F F R F R R 
+F F R R F F F R F R R F F R F R R R F R F F R F R R F R F F R R R F R R R F R F R R F F F R F F R F F F R F R R F F R R F F F F R F F R F R R F R F R F 
+F F R F R F R F F R F R R R F F F R R F F R F R R F F R R F R F F R R F R R R F F R F F R R R F R R R R R F R R F R F F F F F R F F R F R R R F R R R R 
+R R F F R F F F F F F R F R F F F R F F R F R R R F F R F F F F F R R F R F R F F R F R R R F R F F F F R F F R R R F F F R F R R F F R F R F R R R R R 
+F R R R F F F F F R R F R F F F F R F F F R R R R F R R R F F F F F F R F R F R R F F R R R F F R R F R R F R F R F F R R R F F R R F F R R F R R R R R 
+F F R F F F F R R R F R F R F F F R R F F F R F F F R F F R R R R R R F F F F F F R F R F R F R F F F R R F F R R F F F R F R R F R F R F F F F F F F R 
+F F R R R F R F R R F R F R R F R R F F R F R F R F R F R R R R F R R F R F R R F F F R R F R R F F F F R F R R F F R F F R F R R R F R F R F R F R R F 
+F R F R R F F R R F F F R F F F F R F F R F R F F F F R F R R R R F R R R F F F R R R F F F R R R R F R F F R R R F R F F R F R R F R R R F F F F R R R 
+F R R F R R R F F R F R F R F F R F F R R F F F F R R R R R F R R F F F F F R F F R F F R R R R F F F R R R F F R F R F F F F F R R R R R F F F F R R F 
+
+95 19
+F R F R R R R F F F R F R F R F R F F 
+F F F R R F F R F R R R F R F R R F R 
+F F F F R F R F R F R R R F F R F R F 
+F R F F R R R F R R F F R R R F R R R 
+F R F F R F R R F F R R R R F R R F R 
+R R R F F R F F R F F R F R F R R R F 
+R F R F F F F R F R F F R F F F R R R 
+R R F F R R F F F R F R R R R F F F F 
+F R F R F F R F R R F R R F F R F R F 
+R F F F F R F F F R F R F F F F F R F 
+R R R F R R R R R F R R F F F R R F F 
+F F F R F R R F F F F F F R F R R F R 
+R R F R R R F F R F F F F R R F F R F 
+R F R R R F R F F R F F F F R F F R F 
+R R R F F F F F F F F R F F F F F R F 
+F R R R F F F R R R R F R F R R R F F 
+R R R F F R R R F R R F F R F F R R R 
+R R R R R R F R R R F R R R R F F R R 
+F R R F F F R R R R R R R R R R R R R 
+R F R R F R R F F F R F R R F F F R F 
+F R F F R F F R R R F R R R R R F R R 
+R F F R F F R R F F F R R F R F R F F 
+R F F F F F F F R R F R F F R F R F R 
+R R F F F R F F F F R R F R F F F F R 
+F F F R F R F F F F F F R F F F R F R 
+F R F R F F R R R F F R R R F F R F R 
+F F R R R R R F F R R R R F F R R R R 
+R R F R F R R R F R R F R F F R F F R 
+F F F F F F R R F R F F F F R F R R F 
+F F R F F R R R R F R F R F R R R F R 
+R R F F F R F F F F R R R F R F R R F 
+F F F F R F R R F R F R R F F R R F F 
+F R R F R F F F R F F R R R F F R R F 
+R R F F R R R F R R R F R R F F R R R 
+F F R F F R F R R R R F R R F R R F R 
+F F F F R F F F R R R F F F F R R F R 
+R F R R F R F R R F F F F R R R R F R 
+F F R F R F R F R R F R R R R F F R R 
+F F F R R R R R F R F F R R F F F R R 
+R R R F R F R R R F F R F R F F R R R 
+R F R F R R F F R R F R F R R R R F R 
+F F R R F F R F R R F R R R F F R F R 
+F F F R F R R R R F F F R F F R R R R 
+F R R R F R R R F R F F F F R R R R R 
+R F F R R F F F F F F F F F F F R F R 
+R R R R R R F R R F F R R R R R R F F 
+F F R R R F F R F R F F R R F R R F F 
+R F F F R F F R F F F R R R R R F R R 
+F F R R R R R F F R F R F R F R R R R 
+R F F R F R R R R F R R R F R F F F F 
+R R R F R F R R F R R F F R F F F F F 
+F F F F R F R R R F F R R F R F R F F 
+R R R R R F R F R R R F F F R F F R F 
+R R F F R F F R R F F R F R R F R F R 
+F F R F R F R F R R F R R F F F R R R 
+R R F R R R R R R R F R F R R R F F R 
+R R R F R R R F R R F R F F R F R R F 
+R R F R R R R R R F R R F R F R R F F 
+F F F R R R F R F F R R R F F R F F R 
+R F R R R F R F R R R F F R R F R F R 
+R R R R F R F R R F R R F F R F F R F 
+R R F F F R F F F F R F F F F F R F F 
+R F R R R F R R R F R F R R R F F R R 
+F F F F R R R R F R F R F F R F F F F 
+F F F R R F R R R R R R F F F R R F F 
+R R F F F R R F R F F F F R R F F F F 
+F F F R F R F R F F F R F R F F F R F 
+R R F F F R R R F F F R R F R R R R R 
+F F F R F F R F R F F F R F R F R R F 
+R F R R R F F R F F R F R R F F F R F 
+R R F F F F R R R F R R F R R F R F R 
+R F R R R R R F F R F F R F R R F F R 
+F F F F F F F R R F F F F R F R F F R 
+R F R R R F F R F R F F F R F F R R R 
+R R R F F F R R F F R R F F R F F F F 
+F R F R R F R F R R F R R F R R F R R 
+F F F F F R R R R F F F R R R R R F F 
+F F F R R R F R R R R R R R F F F F R 
+F F F F R R F F R F R F R R F R R F F 
+R F R F F R F R F R F F R F F F F F R 
+R F F F F F F R F F F R F R R R F R F 
+F R R R F R F R F F F F F F R R R F F 
+R R R F R R F F R R F R F F R F F R F 
+F F R F R F R R R R F F R F R F F R R 
+R R R R R F F R R R R F R F F F F F F 
+F F F R R F F R R F R R F F R F F F F 
+R F F R F F R R R F F F F R R F F F F 
+F F R R F F F F F R R R R R F F F F F 
+F F R F F F F F F R F R R R R R R F F 
+F R F R R R R R F F F R R R R F F R F 
+F F F R F F R F F R R R R F R R F R R 
+F F F R F F F F F R F R F R F F F F R 
+R R R F F R R F R F F R F R F F F F R 
+R R F R R R R F R R R R R F R F R F F 
+F F F R R R R F F F R R F R F F R F R 
+
+21 44
+R R F R F R R F F F R R R R R R R R R F R R F F F R F R R F R R R F F F F F F R R F F F 
+R F F R F F R R F F F R F R F R R F R R R F F R R R R F R F R R F F R R F R R R F F F F 
+R R F R F F R F F F F F R R R R F R R R R R F F F F F R F R F F R R F F R F F F R R R R 
+R F R R F R R F F F R R F R R R R R F F R R R R F F F F R R R R F R R R F F R R R R R F 
+R R F F R R R F R R F F R F F R F F R R F F R R R R R R F R R F F F R F R R R R F R R F 
+F F F R R F R F R R R R F R F R F F F R R R F R R R F F R F R F R F F R F F F F F F R R 
+R F R F R R F R R R F R R R R R F R F F R R F F F R R F R R F R F R F F R R R R R F R F 
+F R F R F F F F F R R F R R R R F F R R F F R F F R F R F R F R R R R F F F R F F R R F 
+F R R R F R R F R R R F R R F F R R F R F F R R R R F F F F F R F F R F F R R F F R F F 
+R R F R F R F R R F R R F R R R F F R F R R R F F R F R R R F F R R F F F R F F F R F F 
+R F F F R R R R R R R F R F F F F F R F F F F R R R F F R F R R R R R F R R F R F F R F 
+R F R F R R F R R R R R R R F F F R F F R F R R R R R F F R R R R F F R F R R F R F F F 
+F F R R F F F F F R F F R F R F R R F R F F R F F F R R R R F F F F F R R R F F R R R R 
+F R R F F F F R R R F R F R R F R F R F R F F R F R R R R R R F F R F R R R R R R R R F 
+R R R R F R F F F R R F R R F R R F F F R R F R F R R F R F F R F F R F R F R F F R R F 
+R F F F F R R F F R F R R F F R R R R R R R F R F F F R R R F R F R F R R R F F R R F R 
+R F R R F R R F R F F F F F F F F R F R R F F R F R R F F F F F R F F R F R F F F F R R 
+R F F F F F F F R R F F F F R R F F F F R R F F R F R R R R R R F R F R F R F F F R R R 
+R R R F F F R F F R R R F R R F R R F F R R F F R R R F R R F R R F F F R R R R R R R F 
+R R R R R F F F F R R F R F F F F R F R R F F R F R R F R R R F R R F F F F R R F R F R 
+F R F F F R F F F R F R R R F F R F R F F F R R R R R R R R R R R F F F F R R F R R F F 
+
+23 88
+R R R R F R F F R R F F R R F R R F F F F R F F F F F F R F R R R R R F R R F F R R R R R F R R R F F F F R F F R R R R R R F R R F F F F R R F F R F F F F R F R F F R R R F R 
+R F R R F F R F F R R R R R R F R F F F F F F F R R F R R R R R F F F R R F R F F R R R F R F F F R F R F R R R R F R R R F R F R F R R F R R R R R R F R R F F R R R R R R R R 
+F R R F F R F F R F R F F R F F R R F R R R F R R F R R F R R F F R R R R F R R R R F F R F F R F R R F R F F R F R R R R R F F R R R R F R F R R R F R F R R R R R F R F F R R 
+F R F F R R F R R F F R F R R F R F F R R F R R F R F R F F F R R R F R R R F F F R F R R F F R R R R R F F F R F R F R F R R F R F R R R F F F F R R F F F F R R R R F F F R R 
+F F R F F R R F F R F F F F F R F F F F R F F R F F R R F R R R F R F R R R F F R R F R F R R F F R R F F F R R R R R F R R R F R F F R F R F R R R R R R R F F R F F F R F F R 
+F F R F F R R F F F F F F F F F F F F R F R F R F R F F F F R R R R F R R F F F R F R F R F F F R R F R F F R R F F R F R R F F R F F R R R F F F R R F F F F R R R R F F R F F 
+F F R R F F F F R R F F R F R R F R F R R R R R F R F R R R F R R F R F F F F F F R R F F R F R F F F F F F F R R R F R R R R R R R R F F F R R F F R F F F F R R R F R R R R R 
+R F R F R F F R F F F F R F F R R F F R F R R F F R F F R R F F F F R F R F F R F R F F R R F R R R R F F F R R F R F F R R R F F R F R R R R F F F R F F R F F R R R F F F F R 
+F R F F R R R R R F R R R R F F F R R R R F R R F R R R F F R R R R F R R R R R F R F F R R R F R R R R R R F F R F R R R R R R R R F R R F F F R R F R R F R F R R F R R R F R 
+F F R R R F R R F F F F F R R F R F F R F F F F F F F F F R R F R R F R F F R R F F F R F R F F F R R R R F F F R R F R F F F F F R F F F F F R F F R R F F R R R R F R F R F R 
+F R R R F F F F F R R R F F F R R F F F F F R F F F F R F R R R F R R R F F F R F F F F F R F F F R F R F F F R R R F F F F R R R R R F R R R F F F R R F R R R R F F R R R R R 
+F F F R F F R F R R R R R R F R F R R R R R F R F R R F R F F F R F F F R F R R R F R R F R R F R F F R F R R F R F R F R R R R F R R F F R R F F R R F R R R R F F R F R F R R 
+R R F R R R R F R R F F F F F R F F F R F F R F F F R F R R F R R F R F F R R F F F R R R F R R R R R R F R F R F F F F F F F F R F R F R F R F R R F F R F F R F F R F F F F F 
+R F R F R R F R F F F F R F R F F F R F F F R R R R F F R F R R R F R R F F R R R F R F R R R F R R F F F F F F F F R F R F R R R R R F F R F F F F R F R R R R R F F F R R R R 
+F F F F R F F R F F F R F R R R R R F R F R R F F F F R F F R F R F R R F R R R F F F F R F F R F F R R F R R R F F R R R R F F R R F F R R F F F R R F F R F F F F F R F F R R 
+R F F F F R R F R F R R F R R F R R R R R R F F F R F F R R F R F R F R F F R F F R R R R R F F R R F F R R R F R R R R R R F F R R F F R F F F R F F R F F F F F R R F R F R F 
+F F F F F R R F F F F F F R R F F F F R R F F F F R R R F F F R R R F F F F R R R F F F F F R R R R R F F R R R R F R F R F F R R R F F F F F F F R F R F F F F F F R R F F F F 
+R F R R F F R F F F R R R F R F F F R R R F F R R R R R F F F F F R F R F F F F R F F R R F R F R R F F F R F F R F F F F F R R F F R R R F F R R F F R R F F F F R R R R F F F 
+R F R F R F F F R F F F R F F R R R R R F F F R F F R R R R F F F F R F R R R F F F R R R F R R R F F F R R R R R R R R R F F F R R R F R R R F R R F R F R F F F R F F R F F R 
+F F F R R R F F R R R R R R R R R F F F F R F R R R R R F F F R F R R F R R R F R R F R R F F R F R R R R F F R F F R R R F R F F F F R F F F F R R F R R R F F R F F R R R R F 
+F F F R R F F R R R R F R F R R F R R F R F R F R R F R R R F R F R R F R F F R R F R R R R R R R R F F R R R R R F F R F R R R F R R F R F F R F F R F R R F R R F F R F F F F 
+F R F R R R F F R F R R R R R F F R F F R R R F F F F R F R F R R F R F F F R F R F R F F R R R F F R F R R R F F R R R R F R F R F R F R R F F F F R R F R F R R F R R F R F R 
+R F F F F F R F R R F F R R R R F R R R R F F R R F R F F R R R F F F R R F R F F F R F F R F R R R R R F F F R R F F R F F R F R F F F R F R F R R R F R R F R R R R F F F F R 
+
+94 14
+R R R R F F F F R F R R R F 
+R R R R R R R R R R R F R F 
+F F R F F F F F R R R R F R 
+R F F R R R R R R R F R R F 
+F R R F F F R F R R R R R R 
+R R R R F R R F R R R R R F 
+R R R F F R R R F F F F F F 
+F F F F F R F F R F R R F R 
+R F F R R F F F R R F F F F 
+F R R R F R R F R F R R F R 
+R R F R R R R R R F F R F R 
+F R F R R R F R R F F R R F 
+R F F R R R R R F R R F F F 
+F F F R F F F R F R R F F F 
+F F R F F F F F R F F F F F 
+R R R F F F F F R R F F R F 
+R F R F F R R R F F F F R R 
+R F F R R F F F R F R F F F 
+R R R F F R R R R F R R R F 
+F F F R R R R R F R R R F R 
+F R R F R R R R F F R F R F 
+F R R F F R F R R F R R F R 
+R R F F F F R F F F F R R R 
+R R F F R F R R F F R R F R 
+R R F R F R F R F F F R R F 
+F R F F R R R F F F F F R F 
+F F F F R R F F R R F F F R 
+R R F F R R R F R R R R F F 
+F R R R F F F F R R R R R F 
+R F R R F F F R R F F R F F 
+R F R F F R F R F R R F R R 
+R R R R R R R F F F F F R R 
+R F F R R F R F F F R F R R 
+R R R R F R R F R R R R F R 
+F F R F F R R F F R F F F F 
+R F F R R F F F R F R R R R 
+R F R R F F F R F F F R F R 
+F F F F R R R R R F F R R F 
+R R R F R R F F F R F R R R 
+F F F R R R R F F R F F F F 
+F F R F R R R R F F F R R R 
+F R R R F F R R R R F F R R 
+R F F F F R R F R F F F R R 
+R R R F R R F R R F R R R F 
+F R F F R F R F F R R F F F 
+F R F F R F R F F F F F R F 
+F R R R F F F F R F R F R R 
+F F F R F R F R F F F R R R 
+R R F F F F R R R F F F F F 
+R F F F R R F R R R R F F F 
+F F F F R R F F F F F F R R 
+R F F F R R R F R R F R R F 
+F R R R F F R F F F R R R F 
+F R F R R R F R R F F R F R 
+R R F F R F R F R R F F F F 
+F F F F F R F F F R R F F F 
+R F R R F F R F F R R F R F 
+F F F R R R F F R R F F R F 
+F R R F F R F R R F F F F F 
+R F F F R R R R R F R R R F 
+R R R F R R R F F F F F F R 
+R R R R R F R R F R F F F F 
+F F R F R R R R R R R F R F 
+R F R R F R F F F F R R F F 
+F R R R R R R R R R R R F R 
+R F R R R R F F R R F F F F 
+F R R R R R R R R R R R F F 
+R R F R F F F F F R R F R F 
+R F R F F R F F R R R R R R 
+R F F F F F F R R R F R R R 
+F R F R F R F R R F R F F R 
+F F R R F R F R F R F F F R 
+F F R F R R F F R R R R F R 
+F R R F R R F F R R F F R R 
+F F F R F F F F F R R F F R 
+R R R F F R R F F F R F F F 
+F R R R F F R R R R F R R R 
+F F R F R F F F F F R R F R 
+R R F F R F F R R F R F F R 
+F R R R F R R F F F R F R R 
+F F R F R R R R F F R R F F 
+F R F R R F R R F R F F F R 
+R R R F F F F F F F R R F R 
+R R F F R R F F F R F F R R 
+R R R R R F F F R R F F R F 
+F F F R F F F F F F R F F F 
+R F R R F R R F F F F F R R 
+R R F R F R R R F F F F R R 
+R F F R F F R R R R R F F F 
+F F F F F R F R R F R R F R 
+F F R F F F F R F F R F F R 
+R R F F R R F F R R R F R R 
+F F R R R R F F R R F F F R 
+R R R R R R R R R F R F F R 
+
